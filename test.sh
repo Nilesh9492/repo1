@@ -3,5 +3,6 @@ do
 	arr[$i]=`date`
 	echo $arr;	
 	echo $i
+	echp "Helllooooooo"
 done
 
